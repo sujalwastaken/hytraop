@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hydrogen Plant Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="map"></div>
+    
+    <div class="floating-panel">
+        <div class="input-group">
+            <label for="start">Start Location:</label>
+            <input type="text" id="start" placeholder="Click on a marker to select the start location">
+        </div>
+        
+        <div class="input-group">
+            <label for="end">End Location:</label>
+            <input type="text" id="end" placeholder="Click on a marker to select the end location">
+        </div>
+
+        <div class="input-group">
+            <label for="vehicleType">Vehicle Type:</label>
+            <select id="vehicleType">
+                <option value="electric">Electric</option>
+                <option value="petrol">Petrol</option>
+                <option value="cng">CNG</option>
+                <option value="diesel">Diesel</option>
+            </select>
+        </div>
+
+        <button onclick="calculateRoute()">Find Route</button>    
+
+        <div class="emission-display">
+            <h3>Estimated Emissions:</h3>
+            <p id="emissionValue">0 grams of CO2</p>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

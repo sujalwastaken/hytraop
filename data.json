@@ -1,0 +1,802 @@
+[
+    {
+        "Project name": "Hazira, Reliance, back-up hydrogen supply",
+        "Status": "Operational",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "ALK",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Centre of Fuel Cell Technology, Chennai",
+        "Status": "Operational",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "PEM",
+        "Capacity_MWel": 0.01
+    },
+    {
+        "Project name": "Savli wind-hydrogen demo project",
+        "Status": "DEMO",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.005
+    },
+    {
+        "Project name": "Dahej, Reliance, back-up hydrogen supply",
+        "Status": "Operational",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "ALK",
+        "Capacity_MWel": 2.042
+    },
+    {
+        "Project name": "Gwalpahari Solar-Hydrogen demonstration",
+        "Status": "Operational",
+        "Latitude": 28.42927593,
+        "Longitude": 77.14838872,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.12
+    },
+    {
+        "Project name": "Solar Energy Centre SmartFuel hydrogen station ",
+        "Status": "Operational",
+        "Latitude": 28.62986571,
+        "Longitude": 77.17691407,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "MCRC bio-hydrogen facility Chennai",
+        "Status": "DEMO",
+        "Latitude": 13.08961162,
+        "Longitude": 80.23165635,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Rajasthan pilot plant",
+        "Status": "Operational",
+        "Latitude": 28.33215605,
+        "Longitude": 73.28154584,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 2.1
+    },
+    {
+        "Project name": "Sonam Nurboo Memorial Hopsital",
+        "Status": "Feasibility study",
+        "Latitude": 34.15413521,
+        "Longitude": 77.58227248,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 25.0
+    },
+    {
+        "Project name": "Mathura refinery",
+        "Status": "FID\/Construction",
+        "Latitude": 27.37747516,
+        "Longitude": 77.6858607,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 28.9
+    },
+    {
+        "Project name": "Panipat refinery",
+        "Status": "Feasibility study",
+        "Latitude": 29.47705918,
+        "Longitude": 76.88123153,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 115.4
+    },
+    {
+        "Project name": "NTPC-Technip-L&T MeOH project, Vindhyachal",
+        "Status": "FID\/Construction",
+        "Latitude": 25.17314881,
+        "Longitude": 82.50054458,
+        "Technology": "PEM",
+        "Capacity_MWel": 5.0
+    },
+    {
+        "Project name": "Tamil Nadu project",
+        "Status": "Feasibility study",
+        "Latitude": 11.74800727,
+        "Longitude": 79.7709665,
+        "Technology": "PEM",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "NTPC green hydrogen mobiity project - Ladakh",
+        "Status": "FID\/Construction",
+        "Latitude": 34.15374179,
+        "Longitude": 77.57463142,
+        "Technology": "ALK",
+        "Capacity_MWel": 0.8
+    },
+    {
+        "Project name": "GAIL Vijaipur project",
+        "Status": "Operational",
+        "Latitude": 23.473324,
+        "Longitude": 77.947998,
+        "Technology": "PEM",
+        "Capacity_MWel": 10.0
+    },
+    {
+        "Project name": "Anil urea plant",
+        "Status": "Concept",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 2000.0
+    },
+    {
+        "Project name": "ACME Tamil Nadu plant - Chidambaranar port",
+        "Status": "Feasibility study",
+        "Latitude": 10.29138975,
+        "Longitude": 78.82683263,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1500.0
+    },
+    {
+        "Project name": "ACME Odisha Plant",
+        "Status": "Feasibility study",
+        "Latitude": 13.99088349,
+        "Longitude": 75.31805232,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1500.0
+    },
+    {
+        "Project name": "NTPC Green Hydrogen Blending Project (Kawas, Surat)",
+        "Status": "Operational",
+        "Latitude": 21.18090152,
+        "Longitude": 72.71930875,
+        "Technology": "PEM",
+        "Capacity_MWel": 0.0065
+    },
+    {
+        "Project name": "NTPC Green Hydrogen Mobility Project - Delhi",
+        "Status": "FID\/Construction",
+        "Latitude": 28.52575896,
+        "Longitude": 77.50695591,
+        "Technology": "ALK",
+        "Capacity_MWel": 1.6
+    },
+    {
+        "Project name": "Hygenco Demonstration Plant",
+        "Status": "DEMO",
+        "Latitude": 23.2018955,
+        "Longitude": 75.81369931,
+        "Technology": "ALK",
+        "Capacity_MWel": 0.1
+    },
+    {
+        "Project name": "Hygenco JSL Plant",
+        "Status": "Operational",
+        "Latitude": 30.0306919,
+        "Longitude": 76.31095506,
+        "Technology": "ALK",
+        "Capacity_MWel": 1.8
+    },
+    {
+        "Project name": "Dalstur Energy Coal India coal hydrogen",
+        "Status": "Concept",
+        "Latitude": 19.52304762,
+        "Longitude": 80.33553745,
+        "Technology": "Coal w CCUS",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Indian Oil Corporation Koyali refinery",
+        "Status": "Feasibility study",
+        "Latitude": 22.37091877,
+        "Longitude": 73.12275077,
+        "Technology": "NG w CCUS",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Carbon Governance  green hydrogen project, phase 1",
+        "Status": "Concept",
+        "Latitude": 1.099565011,
+        "Longitude": 104.482807,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 210.7
+    },
+    {
+        "Project name": "Carbon Governance  green hydrogen project, phase 2",
+        "Status": "Concept",
+        "Latitude": 1.099565011,
+        "Longitude": 104.482807,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 210.7
+    },
+    {
+        "Project name": "Carbon Governance  green hydrogen project, phase 3",
+        "Status": "Concept",
+        "Latitude": 1.099565011,
+        "Longitude": 104.482807,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 386.2
+    },
+    {
+        "Project name": "Greenko ZeroC - Kakinada city ",
+        "Status": "FID\/Construction",
+        "Latitude": 16.98884806,
+        "Longitude": 82.23555973,
+        "Technology": "ALK",
+        "Capacity_MWel": 1300.0
+    },
+    {
+        "Project name": "JSW Steel ",
+        "Status": "Feasibility study",
+        "Latitude": 12.97596384,
+        "Longitude": 77.53480216,
+        "Technology": "ALK",
+        "Capacity_MWel": 12.0
+    },
+    {
+        "Project name": "Hydrogen Based Microgrid at NETRA",
+        "Status": "Operational",
+        "Latitude": 25.09179472,
+        "Longitude": 72.37797971,
+        "Technology": "PEM",
+        "Capacity_MWel": 0.34
+    },
+    {
+        "Project name": "Chusul Project",
+        "Status": "FID\/Construction",
+        "Latitude": 33.6019122,
+        "Longitude": 78.65730276,
+        "Technology": "PEM",
+        "Capacity_MWel": 1.0
+    },
+    {
+        "Project name": "ABC Cleantech H2",
+        "Status": "Concept",
+        "Latitude": 14.74108332,
+        "Longitude": 75.06363788,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1275.0
+    },
+    {
+        "Project name": "Adani H2",
+        "Status": "Concept",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 11543.8
+    },
+    {
+        "Project name": "Aranayak Mirzapur H2",
+        "Status": "Feasibility study",
+        "Latitude": 25.1367724,
+        "Longitude": 82.56624041,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Badarpur New Delhi H2",
+        "Status": "Feasibility study",
+        "Latitude": 28.51363866,
+        "Longitude": 77.29871255,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1.1
+    },
+    {
+        "Project name": "Bellary-Nellore H2",
+        "Status": "Feasibility study",
+        "Latitude": 14.79754986,
+        "Longitude": 80.02928366,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 57.7
+    },
+    {
+        "Project name": "Bina Refinery",
+        "Status": "Feasibility study",
+        "Latitude": 24.23985952,
+        "Longitude": 78.15025191,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 37.3
+    },
+    {
+        "Project name": "Chamba H2",
+        "Status": "Feasibility study",
+        "Latitude": 30.5527427,
+        "Longitude": 78.42785996,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.1
+    },
+    {
+        "Project name": "Chitrakoot H2",
+        "Status": "Concept",
+        "Latitude": 26.42180325,
+        "Longitude": 80.91597936,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1492.6
+    },
+    {
+        "Project name": "Greenko green ammonia project",
+        "Status": "Concept",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 3440.0
+    },
+    {
+        "Project name": "Gwalpahari Solar-Hydrogen demonstration",
+        "Status": "Operational",
+        "Latitude": 28.43284201,
+        "Longitude": 77.1521652,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.2
+    },
+    {
+        "Project name": "Hydreen HLC Green Energy Himachal Pradesh H2",
+        "Status": "Concept",
+        "Latitude": 31.93603016,
+        "Longitude": 77.20193231,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 3463.1
+    },
+    {
+        "Project name": "HPCL Vizag Refinery H2",
+        "Status": "FID\/Construction",
+        "Latitude": 17.7039381,
+        "Longitude": 83.2193165,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 2.4
+    },
+    {
+        "Project name": "Indore Waste to H2",
+        "Status": "Feasibility study",
+        "Latitude": 22.727435,
+        "Longitude": 75.85697955,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Jindal Hygenco India",
+        "Status": "Operational",
+        "Latitude": 24.04597659,
+        "Longitude": 76.17661838,
+        "Technology": "ALK",
+        "Capacity_MWel": 1.8
+    },
+    {
+        "Project name": "Jorhat H2",
+        "Status": "Operational",
+        "Latitude": 26.75069366,
+        "Longitude": 94.20316705,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.9
+    },
+    {
+        "Project name": "JSW green hydrogen",
+        "Status": "Feasibility study",
+        "Latitude": 19.22432298,
+        "Longitude": 72.86799388,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "JSW Karnataka H2",
+        "Status": "Feasibility study",
+        "Latitude": 14.74108332,
+        "Longitude": 75.06363788,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 43.9
+    },
+    {
+        "Project name": "Karnataka Acme H2",
+        "Status": "Concept",
+        "Latitude": 14.74108332,
+        "Longitude": 75.06363788,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 2308.8
+    },
+    {
+        "Project name": "Kochi Green Hydrogen (KGH2) Hub",
+        "Status": "Feasibility study",
+        "Latitude": 9.944459335,
+        "Longitude": 76.26521175,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Larsen & Toubro\/ReNew Power Project",
+        "Status": "Concept",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 221.8
+    },
+    {
+        "Project name": "Leh H2",
+        "Status": "Feasibility study",
+        "Latitude": 34.65813756,
+        "Longitude": 77.09193467,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 57.7
+    },
+    {
+        "Project name": "L&T Hazira Phase II",
+        "Status": "Feasibility study",
+        "Latitude": 21.1786042,
+        "Longitude": 72.66119862,
+        "Technology": "PEM",
+        "Capacity_MWel": 1.0
+    },
+    {
+        "Project name": "Madhya Pradesh H2",
+        "Status": "Feasibility study",
+        "Latitude": 23.55535954,
+        "Longitude": 77.19709234,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.2
+    },
+    {
+        "Project name": "MAHAPREIT",
+        "Status": "Feasibility study",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.7
+    },
+    {
+        "Project name": "Maharashtra H2",
+        "Status": "Concept",
+        "Latitude": 19.54672769,
+        "Longitude": 75.57860328,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 577.2
+    },
+    {
+        "Project name": "NMC Green Hydrogen",
+        "Status": "Feasibility study",
+        "Latitude": 21.1527412,
+        "Longitude": 79.09379222,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "NTPC Anakapalli H2",
+        "Status": "Feasibility study",
+        "Latitude": 17.6910437,
+        "Longitude": 83.00360557,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 57.7
+    },
+    {
+        "Project name": "NTPC NETRA Campus",
+        "Status": "Concept",
+        "Latitude": 24.07378302,
+        "Longitude": 84.1805596,
+        "Technology": "PEM",
+        "Capacity_MWel": 7303.4
+    },
+    {
+        "Project name": "Numaligarh Refinery Green H2",
+        "Status": "Feasibility study",
+        "Latitude": 26.57534669,
+        "Longitude": 93.78871046,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 115.4
+    },
+    {
+        "Project name": "Ocior Energy Andhra Pradesh H2",
+        "Status": "Feasibility study",
+        "Latitude": 14.89433991,
+        "Longitude": 78.96540074,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.5
+    },
+    {
+        "Project name": "Ocior Energy Gujarat H2",
+        "Status": "Feasibility study",
+        "Latitude": 23.21475219,
+        "Longitude": 70.90497557,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 30.3
+    },
+    {
+        "Project name": "PMC Waste to H2 Phase I",
+        "Status": "FID\/Construction",
+        "Latitude": 18.5288305,
+        "Longitude": 73.85918686,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "POSCO H2",
+        "Status": "Feasibility study",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.1
+    },
+    {
+        "Project name": "Pune-Mumbai",
+        "Status": "Feasibility study",
+        "Latitude": 18.5288305,
+        "Longitude": 73.85918686,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 37.0
+    },
+    {
+        "Project name": "Renew Efuels Odisha Green H2",
+        "Status": "Feasibility study",
+        "Latitude": 20.47933411,
+        "Longitude": 84.35571206,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 4.2
+    },
+    {
+        "Project name": "SOEC demonstrator Bangalore",
+        "Status": "Feasibility study",
+        "Latitude": 12.98606377,
+        "Longitude": 77.59590418,
+        "Technology": "SOEC",
+        "Capacity_MWel": 0.008
+    },
+    {
+        "Project name": "Swaraj Green Power H2",
+        "Status": "Feasibility study",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Visakhapatnam H2",
+        "Status": "Feasibility study",
+        "Latitude": 17.7000133,
+        "Longitude": 83.26944161,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 15.9
+    },
+    {
+        "Project name": "Waaree Renewable Technologies H2",
+        "Status": "Feasibility study",
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 8.3
+    },
+    {
+        "Project name": "WBPDCL Durgapur H2",
+        "Status": "Feasibility study",
+        "Latitude": 23.52244168,
+        "Longitude": 87.3072112,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 46.2
+    },
+    {
+        "Project name": "Ammonia project Avaada Odisha",
+        "Status": "Feasibility study",
+        "Latitude": 20.46904583,
+        "Longitude": 84.23517444,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1039.4
+    },
+    {
+        "Project name": "Indian Oil Corporation IOCL refinery",
+        "Status": "Concept",
+        "Latitude": 22.37091877,
+        "Longitude": 73.12275077,
+        "Technology": "Biomass",
+        "Capacity_MWel": 0.0
+    },
+    {
+        "Project name": "Chennai Petroleum Corporation (CPCL) - phase 1",
+        "Status": "Concept",
+        "Latitude": 13.28039404,
+        "Longitude": 80.56241424,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.012
+    },
+    {
+        "Project name": "Chennai Petroleum Corporation (CPCL) - phase 2",
+        "Status": "Concept",
+        "Latitude": 13.28039404,
+        "Longitude": 80.56241424,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.046
+    },
+    {
+        "Project name": "MRPL Mangalore Refinery - phase 1",
+        "Status": "Concept",
+        "Latitude": 14.74108332,
+        "Longitude": 75.06363788,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.006
+    },
+    {
+        "Project name": "MRPL Mangalore Refinery - phase 2",
+        "Status": "Concept",
+        "Latitude": 14.74108332,
+        "Longitude": 75.06363788,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 0.046
+    },
+    {
+        "Project name": "Ammonia plant Deendayal Port - Site Kandla in Gujarat",
+        "Status": "Concept",
+        "Latitude": 23.02120543,
+        "Longitude": 70.21247057,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 276.5
+    },
+    {
+        "Project name": "Ammonia plant Kota - Rajasthan state - phase 1",
+        "Status": "Concept",
+        "Latitude": 25.21904662,
+        "Longitude": 75.8644713,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 15.6
+    },
+    {
+        "Project name": "GACL-NTPC REL ammonia methanol plant",
+        "Status": "Concept",
+        "Latitude": 22.24792332,
+        "Longitude": 71.69636156,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 86.2
+    },
+    {
+        "Project name": "Umwelt e-fuels plant ",
+        "Status": "Concept",
+        "Latitude": 8.318853436,
+        "Longitude": 77.74044851,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 220.9
+    },
+    {
+        "Project name": "ReNew E-Fuels Private Limited green methanol plant - Malkangiri",
+        "Status": "Concept",
+        "Latitude": 18.3460778,
+        "Longitude": 81.88304567,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 968.7
+    },
+    {
+        "Project name": "ReNew E-Fuels Private Limited green methanol plant - Rayagada",
+        "Status": "Concept",
+        "Latitude": 19.17238364,
+        "Longitude": 83.41446687,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 581.2
+    },
+    {
+        "Project name": "L&T Hazira Phase I",
+        "Status": "Operational",
+        "Latitude": 21.1786042,
+        "Longitude": 72.66119862,
+        "Technology": "PEM",
+        "Capacity_MWel": 1.0
+    },
+    {
+        "Project name": "Essar-Gujarat MoU",
+        "Status": "Concept",
+        "Latitude": 21.9263617,
+        "Longitude": 71.54008709,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1000.0
+    },
+    {
+        "Project name": "Chochin Airport Hydrogen project",
+        "Status": "DEMO",
+        "Latitude": 10.15456087,
+        "Longitude": 76.37886084,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1.0
+    },
+    {
+        "Project name": "Pudimadaka Green Hydrogen hub",
+        "Status": "Concept",
+        "Latitude": 17.49414484,
+        "Longitude": 83.00250484,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 4435.2
+    },
+    {
+        "Project name": "Waaree Odisha plant",
+        "Status": "Feasibility study",
+        "Latitude": 20.24504737,
+        "Longitude": 86.16685026,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 2494.5
+    },
+    {
+        "Project name": "EG Solwin Hybrid - Enfinity Global ammonia plant in  Tata Steel Special Economic Zone",
+        "Status": "Feasibility study",
+        "Latitude": 19.31407075,
+        "Longitude": 85.00395609,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 623.6
+    },
+    {
+        "Project name": "Sembcorp Gopalpur project",
+        "Status": "Feasibility study",
+        "Latitude": 19.32385154,
+        "Longitude": 84.98703828,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1312.9
+    },
+    {
+        "Project name": "ReNew-Jera plant in Odisha",
+        "Status": "Concept",
+        "Latitude": 20.31375126,
+        "Longitude": 86.70341402,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 207.9
+    },
+    {
+        "Project name": "Hygenco Gopalpur GNH3 Plant- Tata Steel Special Economic Zone MoU, phase 1",
+        "Status": "Feasibility study",
+        "Latitude": 19.27725925,
+        "Longitude": 84.94041517,
+        "Technology": "ALK",
+        "Capacity_MWel": 0.9
+    },
+    {
+        "Project name": "Hygenco Gopalpur GNH3 Plant - Tata Steel Special Economic Zone MoU, phase 2",
+        "Status": "Feasibility study",
+        "Latitude": 19.27725925,
+        "Longitude": 84.94041517,
+        "Technology": "ALK",
+        "Capacity_MWel": 3.9
+    },
+    {
+        "Project name": "ReNew Power Kerala plant, phase 1",
+        "Status": "Feasibility study",
+        "Latitude": 8.374881464,
+        "Longitude": 76.98983626,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 207.9
+    },
+    {
+        "Project name": "ReNew Power Kerala plant, phase 2",
+        "Status": "Concept",
+        "Latitude": 8.374881464,
+        "Longitude": 76.98983626,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1039.4
+    },
+    {
+        "Project name": "ReNew Power Kerala plant, phase 3",
+        "Status": "Concept",
+        "Latitude": 8.374881464,
+        "Longitude": 76.98983626,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1039.4
+    },
+    {
+        "Project name": "INOX Air Products - Maharashtra government MoU",
+        "Status": "Concept",
+        "Latitude": 18.87296115,
+        "Longitude": 74.86698751,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 519.7
+    },
+    {
+        "Project name": "Hygenco Sterlite GH2 Plant",
+        "Status": "FID\/Construction",
+        "Latitude": 24.04597659,
+        "Longitude": 76.17661838,
+        "Technology": "ALK",
+        "Capacity_MWel": 1.8
+    },
+    {
+        "Project name": "Torrent ammonia plant",
+        "Status": "Concept",
+        "Latitude": 24.30901853,
+        "Longitude": 72.35204099,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 182.3
+    },
+    {
+        "Project name": "Welspun ammonia project",
+        "Status": "Concept",
+        "Latitude": 23.60654332,
+        "Longitude": 69.80508895,
+        "Technology": "Other Electrolysis",
+        "Capacity_MWel": 1721.4
+    }
+]

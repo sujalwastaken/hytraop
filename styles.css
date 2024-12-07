@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+#map {
+    width: 100%;
+    height: 100vh; /* Full height of the viewport */
+}
+
+.floating-panel {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 300px; /* Fixed width for the panel */
+    z-index: 1000; /* Ensure it is above the map */
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.emission-display {
+    margin-top: 15px;
+    text-align: center;
+}
+
+/* Style for the estimated emission display */
+#emissionValue {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4CAF50;
+}
+/* Styling for the Leaflet Routing Machine control panel */
+.leaflet-routing-container {
+    position: fixed;
+    bottom: 20px;  /* Adjust space from the bottom */
+    right: 20px;   /* Fix spacing from the right edge */
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: auto;   /* Automatically adjust width */
+    max-width: 350px;  /* Set a max width to prevent excessive expansion */
+    max-height: 90vh;  /* Prevent overflow by limiting the height */
+    overflow-y: scroll;  /* Always show the vertical scrollbar */
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Custom scrollbars for modern browsers (Webkit) */
+.leaflet-routing-container::-webkit-scrollbar {
+    width: 8px;  /* Width of the scrollbar */
+}
+
+.leaflet-routing-container::-webkit-scrollbar-track {
+    background: #f1f1f1;  /* Light background for the track */
+    border-radius: 4px;
+}
+
+.leaflet-routing-container::-webkit-scrollbar-thumb {
+    background-color: #4CAF50;  /* Green color for the thumb */
+    border-radius: 4px;
+    border: 2px solid #f1f1f1;  /* Border around the thumb */
+}
+
+.leaflet-routing-container::-webkit-scrollbar-thumb:hover {
+    background-color: #45a049;  /* Darker green on hover */
+}
+
+/* Firefox scrollbar styles */
+.leaflet-routing-container {
+    scrollbar-width: thin;  /* Make scrollbar thinner */
+    scrollbar-color: #4CAF50 #f1f1f1;  /* Green thumb, light track */
+}
+
+/* Change color of the route container */
+.leaflet-routing-container-hide {
+    background-color: #fff; /* Modern look */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add minimalistic button style to route controls */
+.leaflet-routing-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.leaflet-routing-btn:hover {
+    background-color: #45a049;
+}
+
+.leaflet-routing-icon {
+    color: #4CAF50; /* Green color for icons */
+}
+
+/* Make h2 and h3 text the same green */
+.leaflet-routing-container h2, .leaflet-routing-container h3 {
+    color: #4CAF50; /* Green color */
+}
